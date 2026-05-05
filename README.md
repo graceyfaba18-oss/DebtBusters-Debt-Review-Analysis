@@ -1,4 +1,4 @@
-Project 1 — DebtBusters South Africa
+DebtBusters South Africa
 SA Consumer Credit and Debt Review Analysis
 Author: Gracey F.
 Tools: SQL (SQLite) | Microsoft Excel | DB Browser for SQLite
@@ -13,20 +13,20 @@ What This Project Analyses
 This project answers 10 real business questions using SQL queries and an Excel dashboard:
 Market Overview
 How has total consumer credit outstanding grown from 2019 to 2024?
-What percentage of South African consumers hold impaired accounts?
+What percentage of South African consumers hold defaulted accounts?
 How did COVID-19 affect new credit granted in 2020?
 Debt Review Trends
 How has the volume of debt review applications grown over time?
 What is the approval versus rejection rate per quarter?
 What is the year-on-year growth in new debt review applications?
 How many consumers successfully exited debt review?
-Impairment Analysis
-Which credit type carries the highest impairment rate?
-How many South Africans are impaired across all credit types?
+Defaulted Accounts Analysis
+Which credit type carries the highest default rate?
+How many South Africans are financially strained across all credit types?
 Combined market health snapshot across three years
 ---
 Key Findings
-As of Q4 2024, South Africa's total consumer credit outstanding stood at R2 418.5 billion across approximately 29 million credit-active consumers. Over 10.7 million of those consumers — representing 36.8% of all credit-active individuals — held impaired accounts.
+As of Q4 2024, South Africa's total consumer credit outstanding stood at R2 418.5 billion across approximately 29 million credit-active consumers. Over 10.7 million of those consumers — representing 36.8% of all credit-active individuals — held defaulted accounts.
 Debt review applications have grown consistently since 2021, reaching 57 100 new applications in Q4 2024 alone. The total number of consumers under formal debt review reached 483 500 by the end of 2024, up from approximately 248 300 in Q4 2019. This represents a 95% increase over five years, driven by rising household debt burdens and sustained economic pressure on South African consumers.
 Retail accounts and personal loans show the highest impairment rates at 43.0% and 41.0% respectively — meaning nearly half of all consumers with personal loan or retail credit obligations are in arrears. This directly explains the volume of unsecured debt cases handled by DebtBusters' Financial Assessors on a daily basis.
 The COVID-19 lockdown period in Q2 2020 caused a sharp 42% decline in new credit granted compared to Q1 2020, followed by a strong recovery from 2021 onward.
