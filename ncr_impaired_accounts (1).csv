@@ -1,0 +1,7 @@
+quarter,credit_type,total_accounts,impaired_count,impaired_pct
+Q4 2024,Mortgage,1820000,410000,22.5
+Q4 2024,Vehicle Finance,3650000,876000,24.0
+Q4 2024,Credit Cards,9200000,2760000,30.0
+Q4 2024,Personal Loans,7800000,3198000,41.0
+Q4 2024,Retail Accounts,5100000,2193000,43.0
+Q4 2024,Other,1530000,483000,31.6
