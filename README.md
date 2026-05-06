@@ -5,7 +5,7 @@ Tools: SQL (SQLite) | Microsoft Excel | DB Browser for SQLite
 Data Source: National Credit Regulator (NCR) — Consumer Credit Market Reports Q4 2019 to Q4 2024
 Source URL: https://www.ncr.org.za
 ---
-Business Context
+
 DebtBusters is South Africa's largest debt counselling company. The business operates under the National Credit Act 34 of 2005, which created a formal debt review process allowing over-indebted consumers to restructure their debt obligations under the supervision of a registered debt counsellor.
 I work as a Financial Assessor in the DebtBusters Onboarding team. My daily work involves assessing client income and expenditure, calculating debt ratios, and preparing legal proposals for restructured repayment plans. This project analyses the macro environment that drives demand for DebtBusters' services using real publicly available data from the NCR — the regulatory body that oversees all credit and debt counselling activity in South Africa.
 ---
